@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lab08</string>
+    <string name="welcome">Game - Avoid the Falling Leaves! Press Sprite Once to Make it Smaller</string>
+</resources>
